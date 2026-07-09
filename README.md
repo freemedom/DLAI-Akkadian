@@ -1,2 +1,2 @@
 # DLAI-Akkadian
-DLAI project
+To be organized
