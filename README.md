@@ -1,0 +1,2 @@
+# DLAI-Akkadian
+DLAI project
